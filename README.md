@@ -1,6 +1,6 @@
 # Gesture-RPS-Battle
 A OpenCV and Mediapipe Project
-# Rock-Paper-Scissors Game 🖊️🎮
+# Rock-Paper-Scissors Game 🪨📜✂️🎮
 
 As the **Sublead** of the AI and Data Science Club at my college, I conducted a session on **OpenCV** and **Mediapipe**, introducing students to computer vision concepts and practical applications. To make the session engaging and hands-on, I developed this Rock-Paper-Scissors Game project, showcasing how hand gesture recognition can be implemented using these powerful tools. This project served as a fun and educational way to demonstrate real-world applications of AI and computer vision.
 

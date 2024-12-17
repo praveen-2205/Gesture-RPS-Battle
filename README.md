@@ -2,8 +2,19 @@
 A OpenCV and Mediapipe Project
 # Rock-Paper-Scissors Game 🖊️🎮
 
-Welcome to the **Rock-Paper-Scissors Game**! This project demonstrates how to use **OpenCV**, **cvzone**, and **Mediapipe** for hand gesture detection in a fun and interactive game.
+As the Sublead of the AI and Data Science Club at my college, I conducted a session on OpenCV and Mediapipe, introducing students to computer vision concepts and practical applications. To make the session engaging and hands-on, I developed this Rock-Paper-Scissors Game project, showcasing how hand gesture recognition can be implemented using these powerful tools. This project served as a fun and educational way to demonstrate real-world applications of AI and computer vision.
 
+
+## Language Used 🧑‍💻
+
+- **Python**
+
+## Frameworks Used 📚
+
+- **OpenCV**
+- **Mediapipe**
+
+---
 ## Overview 📊
 
 The repository includes two versions of the Rock-Paper-Scissors game:
@@ -66,16 +77,3 @@ pip install cvzone
 - `first.py`: The script without Mediapipe, using OpenCV and cvzone.
 - `rockpaperscissors.py`: The script with Mediapipe for advanced hand gesture recognition.
 - `Resources/`: Contains necessary images for game visuals (like the background and AI moves).
-
-
----
-
-## Language Used 🧑‍💻
-
-- **Python**
-
-## Frameworks Used 📚
-
-- **OpenCV**
-- **Mediapipe**
-
